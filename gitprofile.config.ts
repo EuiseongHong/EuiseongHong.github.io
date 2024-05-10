@@ -126,14 +126,8 @@ const CONFIG = {
     {
       institution: 'Sunkyunkwan University(SKKU)',
       degree: 'Biomedical Engineering B.S',
-      from: '2020',
+      from: '2020-',
       to: '',
-    },
-    {
-      institution: 'Institution Name',
-      degree: '',
-      from: '2012',
-      to: '2014',
     },
   ],
   publications: [
