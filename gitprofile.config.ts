@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'EuiseongHong', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -124,14 +124,14 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Sunkyunkwan University(SKKU)',
+      degree: 'Biomedical Engineering B.S',
+      from: '2020',
+      to: '',
     },
     {
       institution: 'Institution Name',
-      degree: 'Degree',
+      degree: '',
       from: '2012',
       to: '2014',
     },
