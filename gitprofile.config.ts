@@ -95,6 +95,7 @@ const CONFIG = {
   publications: [
     
   ],
+}
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
