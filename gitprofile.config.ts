@@ -32,9 +32,12 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        {
+        }
       ],
     },
   },
+  
   seo: {
     title: 'Portfolio of Ariful Alam',
     description: '',
@@ -46,8 +49,9 @@ const CONFIG = {
     email: 'eddie0710@g.skku.edu',
   },
   resume: {
-       // Empty fileUrl will hide the `Download Resume` button.
-  
+    fileUrl:
+      '', // Empty fileUrl will hide the `Download Resume` button.
+  },
   skills: [
     'Git',
     'Docker',
@@ -93,9 +97,10 @@ const CONFIG = {
     },
   ],
   publications: [
-    
+    {
+    }
   ],
-}
+
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
