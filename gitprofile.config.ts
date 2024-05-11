@@ -103,7 +103,7 @@ const CONFIG = {
 
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
+    source: '', // medium | dev
     username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
