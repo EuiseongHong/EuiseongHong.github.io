@@ -46,9 +46,9 @@ const CONFIG = {
     email: 'eddie0710@g.skku.edu',
   },
   resume: {
-    fileUrl:
+    fileUrl: '' }
        // Empty fileUrl will hide the `Download Resume` button.
-  },
+  
   skills: [
     'Git',
     'Docker',
