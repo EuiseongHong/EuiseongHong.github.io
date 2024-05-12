@@ -39,7 +39,7 @@ const CONFIG = {
   },
   
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Personal Website Euiseong Hong',
     description: '',
     imageURL: '',
   },
