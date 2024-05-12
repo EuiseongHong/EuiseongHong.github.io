@@ -61,7 +61,7 @@ const CONFIG = {
   experiences: [
       {
       company: 'Republic of Korea Army',
-      position: 'Sergeant',
+      position: 'Sergeant(Army Interpreter)',
       from: 'December 2021',
       to: 'June 2023',
       companyLink: 'https://example.com',
@@ -76,22 +76,22 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Samsung Scholarship',
+      body: '',
+      year: 'March 2020',
+      link: '',
     },
   ],
   educations: [
     {
       institution: 'Sunkyunkwan University(SKKU)',
-      degree: 'Biomedical Engineering',
+      degree: 'B.S. Biomedical Engineering',
       from: '2020',
       to: 'Present',
     },
     {
       institution: 'Sunkyunkwan University(SKKU)',
-      degree: 'Software',
+      degree: 'B.S. Software',
       from: '2024',
       to: 'Present',
     },
